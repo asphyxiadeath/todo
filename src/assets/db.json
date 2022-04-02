@@ -16,11 +16,6 @@
       "id": 7
     },
     {
-      "name": "жопа 3",
-      "colorId": 1,
-      "id": 8
-    },
-    {
       "name": "сериа",
       "colorId": 4,
       "id": 9
@@ -32,18 +27,6 @@
       "text": "пкупц",
       "completed": false,
       "id": 13
-    },
-    {
-      "listId": 8,
-      "text": "жопа чесать нравится ",
-      "completed": false,
-      "id": 14
-    },
-    {
-      "listId": 8,
-      "text": "биба боба",
-      "completed": false,
-      "id": 15
     },
     {
       "listId": 5,
